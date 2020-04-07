@@ -2,6 +2,8 @@
 
 
 _Automatic Text Summarizer_ is a windows application made using python and PyQt5.
+The app is developed using PyQt5. 
+The logic for text summarization is based on concepts of **NLP** and are embedded in app using _nltk_ module of python.
 
 **working :**
 
@@ -13,5 +15,6 @@ _Automatic Text Summarizer_ is a windows application made using python and PyQt5
 In this way, the application summarizes the text.
 
 **modules used**
--nltk
 
+1. nltk
+2. PyQt5
