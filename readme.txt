@@ -1,4 +1,4 @@
-TEXT-SUMMARIZER APP
+# Text Summarizer App
 
 Automatic Text Summarizer is a windows application made using python and PyQt5.
 When user inputs article, paragraph or a long text, the application summarizes the text.
